@@ -45,14 +45,32 @@
             \hline
         \end{tabular}
         \caption{Basic Statistics For Selected Countries}
-        \label{countries-statistics}
+        \label{fig:countries-statistics}
     \end{table}
-\exercise{}
+\exercise{Funny Animal}
+    \begin{figure}[t]
+        \centering
+        \includegraphics[width=0.8\linewidth]{images/funny_bear.jpg}
+        \caption{A polar bear making a funny expression.}
+        \label{fig:funny-animal-picture}
+    \end{figure}
+\exercise{Tikzpicture}
     \begin{figure}[h]
         \centering
-        \includegraphics[width=0.8\linewidth]{funny_bear}
-        \caption{Description of the image.}
-        \label{fig:your_image_label}
+        \begin{tikzpicture}[initial text={}]
+            \node[state,initial] (A) {$A$};
+            \node[state] (B) [below right=of A] {$B$};
+            \node[state] (C) [right=of B] {$C$};
+            \node[state,accepting] (D) [above right=of C] {$D$};
+            \path[->] (A) edge node[above right]{$b$} (B);
+            \path[->] (A) edge node[above]{$a$} (D);
+            \path[->, loop left] (B) edge node{$b$} (B);
+            \path[->] (B) edge node[above]{$a$} (C);
+            \path[->, loop right] (C) edge node{$a$} (C);
+            \path[->] (C) edge node[above left]{$b$} (D);
+        \end{tikzpicture}        
+        \caption{TikZ representation of Figure 1.}
+        \label{fig:Figure_1}
     \end{figure}
 
 
