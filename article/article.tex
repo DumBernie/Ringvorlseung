@@ -30,9 +30,30 @@
 % Nutze den \exercise{Aufgabenname} Befehl, um eine neue Aufgabe zu beginnen.
 % Möchtest du eine Aufgabe in der Nummerierung überspringen, schreibe vor der Aufgabe: \stepcounter{exnum}
 % Möchtest du die Nummer einer Aufgabe auf eine beliebige Zahl x setzen, schreibe vor der Aufgabe: \setcounter{exnum}{x}
-
-
-
+\exercise{Table}
+    \begin{table}[h]
+        \centering
+        \begin{tabular}{ c c c c }
+            \hline
+            \textbf{Name} & \textbf{Capital City} & \textbf{Population Density} & \textbf{Official Language(s)} \\
+            \hline
+            Germany & Berlin & 239 per \text{Km}{$^2$} & German \\
+            The UK & London & 280 per \text{Km}{$^2$} & English \\
+            The USA & Washington D.C. & 37 per \text{Km}{$^2$} & n/a \\
+            China & Beijing & 152 per \text{Km}{$^2$} & Mandarin \\ 
+            Japan & Tokyo & 338 per \text{Km}{$^2$} & Japanese \\
+            \hline
+        \end{tabular}
+        \caption{Basic Statistics For Selected Countries}
+        \label{countries-statistics}
+    \end{table}
+\exercise{}
+    \begin{figure}[h]
+        \centering
+        \includegraphics[width=0.8\linewidth]{funny_bear}
+        \caption{Description of the image.}
+        \label{fig:your_image_label}
+    \end{figure}
 
 
 \cite{s2011}
