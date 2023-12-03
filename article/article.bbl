@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+
+\bibitem{DBLP:conf/eurocrypt/Groth16}
+Jens Groth.
+\newblock On the size of pairing-based non-interactive arguments.
+\newblock In Marc Fischlin and Jean{-}S{\'{e}}bastien Coron, editors, {\em
+  Advances in Cryptology - {EUROCRYPT} 2016 - 35th Annual International
+  Conference on the Theory and Applications of Cryptographic Techniques,
+  Vienna, Austria, May 8-12, 2016, Proceedings, Part {II}}, volume 9666 of {\em
+  Lecture Notes in Computer Science}, pages 305--326. Springer, 2016.
+
+\bibitem{DBLP:journals/ijcip/HeinrichGAK23}
+Markus Heinrich, Arwed G{\"{o}}lz, Tolga Arul, and Stefan Katzenbeisser.
+\newblock Rule-based anomaly detection for railway signalling networks.
+\newblock {\em Int. J. Crit. Infrastructure Prot.}, 42:100603, 2023.
+
+\bibitem{s2011}
+Sascha Spoun.
+\newblock {\em Erfolgreich studieren}.
+\newblock Pearson Deutschland GmbH, 2011.
+
+\end{thebibliography}
