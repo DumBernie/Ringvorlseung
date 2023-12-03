@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.2)  3 DEC 2023 15:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.2)  3 DEC 2023 15:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -951,6 +951,21 @@ LaTeX Warning: Label `fig:player-statistics' multiply defined.
 
 LaTeX Warning: Label `fig:Jalen-Green' multiply defined.
 
+
+LaTeX Warning: Label `fig:Team' multiply defined.
+
+
+LaTeX Warning: Label `fig:Team' multiply defined.
+
+
+LaTeX Warning: Label `fig:Team' multiply defined.
+
+
+LaTeX Warning: Label `fig:Team' multiply defined.
+
+
+LaTeX Warning: Label `fig:Team' multiply defined.
+
 ))
 \openout1 = `talk.aux'.
 
@@ -1115,14 +1130,14 @@ Overfull \hbox (91.05072pt too wide) in paragraph at lines 1--1
 [][]  
  []
 
-<gfx/logos/logo_university_stuttgart_white.pdf, id=42, 183.68625pt x 41.15375pt
+<gfx/logos/logo_university_stuttgart_white.pdf, id=40, 183.68625pt x 41.15375pt
 >
 File: gfx/logos/logo_university_stuttgart_white.pdf Graphic file (type pdf)
 <use gfx/logos/logo_university_stuttgart_white.pdf>
 Package pdftex.def Info: gfx/logos/logo_university_stuttgart_white.pdf  used on
  input line 1.
 (pdftex.def)             Requested size: 182.09746pt x 40.80072pt.
-<gfx/logos/logo_ipvs.png, id=43, 566.115pt x 566.115pt>
+<gfx/logos/logo_ipvs.png, id=41, 566.115pt x 566.115pt>
 File: gfx/logos/logo_ipvs.png Graphic file (type png)
 <use gfx/logos/logo_ipvs.png>
 Package pdftex.def Info: gfx/logos/logo_ipvs.png  used on input line 1.
@@ -1168,12 +1183,12 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 1.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 5.69998pt on input line 1.
-<gfx/logos/logo_sgs.png, id=44, 494.84875pt x 607.26875pt>
+<gfx/logos/logo_sgs.png, id=42, 494.84875pt x 607.26875pt>
 File: gfx/logos/logo_sgs.png Graphic file (type png)
 <use gfx/logos/logo_sgs.png>
 Package pdftex.def Info: gfx/logos/logo_sgs.png  used on input line 1.
 (pdftex.def)             Requested size: 28.45274pt x 34.9149pt.
-<gfx/logos/logo_simtech.png, id=46, 332.24126pt x 94.3525pt>
+<gfx/logos/logo_simtech.png, id=44, 332.24126pt x 94.3525pt>
 File: gfx/logos/logo_simtech.png Graphic file (type png)
 <use gfx/logos/logo_simtech.png>
 Package pdftex.def Info: gfx/logos/logo_simtech.png  used on input line 1.
@@ -1243,7 +1258,7 @@ Overfull \hbox (222.46625pt too wide) in paragraph at lines 41--41
  [] 
  []
 
-<images/vanvlfr01.jpg, id=124, 120.45pt x 180.675pt>
+<images/vanvlfr01.jpg, id=130, 120.45pt x 180.675pt>
 File: images/vanvlfr01.jpg Graphic file (type jpg)
 <use images/vanvlfr01.jpg>
 Package pdftex.def Info: images/vanvlfr01.jpg  used on input line 41.
@@ -1283,7 +1298,7 @@ Overfull \hbox (217.18433pt too wide) in paragraph at lines 67--67
  [] 
  []
 
-<images/greenja05.jpg, id=193, 120.45pt x 180.675pt>
+<images/greenja05.jpg, id=207, 120.45pt x 180.675pt>
 File: images/greenja05.jpg Graphic file (type jpg)
 <use images/greenja05.jpg>
 Package pdftex.def Info: images/greenja05.jpg  used on input line 67.
@@ -1323,7 +1338,7 @@ Overfull \hbox (217.18433pt too wide) in paragraph at lines 93--93
  [] 
  []
 
-<images/brookdi01.jpg, id=263, 120.45pt x 180.675pt>
+<images/brookdi01.jpg, id=285, 120.45pt x 180.675pt>
 File: images/brookdi01.jpg Graphic file (type jpg)
 <use images/brookdi01.jpg>
 Package pdftex.def Info: images/brookdi01.jpg  used on input line 93.
@@ -1369,7 +1384,7 @@ Overfull \hbox (211.9024pt too wide) in paragraph at lines 119--119
  [] 
  []
 
-<images/smithja05.jpg, id=330, 120.45pt x 180.675pt>
+<images/smithja05.jpg, id=361, 120.45pt x 180.675pt>
 File: images/smithja05.jpg Graphic file (type jpg)
 <use images/smithja05.jpg>
 Package pdftex.def Info: images/smithja05.jpg  used on input line 119.
@@ -1415,7 +1430,7 @@ Overfull \hbox (217.18433pt too wide) in paragraph at lines 145--145
  [] 
  []
 
-<images/sengual01.jpg, id=399, 120.45pt x 180.675pt>
+<images/sengual01.jpg, id=437, 120.45pt x 180.675pt>
 File: images/sengual01.jpg Graphic file (type jpg)
 <use images/sengual01.jpg>
 Package pdftex.def Info: images/sengual01.jpg  used on input line 145.
@@ -1458,18 +1473,23 @@ Overfull \hbox (91.05072pt too wide) in paragraph at lines 147--147
 [19
 
 ]
-<images/team.png, id=472, 578.16pt x 325.215pt>
-File: images/team.png Graphic file (type png)
-<use images/team.png>
-Package pdftex.def Info: images/team.png  used on input line 156.
-(pdftex.def)             Requested size: 318.67209pt x 179.2509pt.
- [20
+<images/freddy.png, id=519, 941.01563pt x 634.37pt>
+File: images/freddy.png Graphic file (type png)
+<use images/freddy.png>
+Package pdftex.def Info: images/freddy.png  used on input line 156.
+(pdftex.def)             Requested size: 318.67209pt x 214.82144pt.
 
- <./images/team.png>]
-File: images/team.png Graphic file (type png)
-<use images/team.png>
-Package pdftex.def Info: images/team.png  used on input line 162.
-(pdftex.def)             Requested size: 318.67209pt x 179.2509pt.
+Overfull \vbox (28.68872pt too high) detected at line 156
+ []
+
+[20
+
+ <./images/freddy.png>]
+<images/jalen.jpg, id=556, 1927.2pt x 1084.05pt>
+File: images/jalen.jpg Graphic file (type jpg)
+<use images/jalen.jpg>
+Package pdftex.def Info: images/jalen.jpg  used on input line 162.
+(pdftex.def)             Requested size: 318.67209pt x 179.24098pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{fig:Team}) ha
 s been already used, duplicate ignored
@@ -1478,11 +1498,12 @@ s been already used, duplicate ignored
 l.162 \end{frame}
                   [21
 
-]
-File: images/team.png Graphic file (type png)
-<use images/team.png>
-Package pdftex.def Info: images/team.png  used on input line 168.
-(pdftex.def)             Requested size: 318.67209pt x 179.2509pt.
+ <./images/jalen.jpg>]
+<images/dillon.jpg, id=591, 688.5725pt x 387.4475pt>
+File: images/dillon.jpg Graphic file (type jpg)
+<use images/dillon.jpg>
+Package pdftex.def Info: images/dillon.jpg  used on input line 168.
+(pdftex.def)             Requested size: 318.67209pt x 179.30989pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{fig:Team}) ha
 s been already used, duplicate ignored
@@ -1491,55 +1512,36 @@ s been already used, duplicate ignored
 l.168 \end{frame}
                   [22
 
-]
-Overfull \hbox (50.98267pt too wide) in paragraph at lines 174--174
-[][]  
- []
-
-File: images/team.png Graphic file (type png)
-<use images/team.png>
-Package pdftex.def Info: images/team.png  used on input line 174.
-(pdftex.def)             Requested size: 318.67209pt x 179.2509pt.
+ <./images/dillon.jpg>]
+<images/jabari.png, id=626, 757.32938pt x 422.07687pt>
+File: images/jabari.png Graphic file (type png)
+<use images/jabari.png>
+Package pdftex.def Info: images/jabari.png  used on input line 174.
+(pdftex.def)             Requested size: 318.67209pt x 177.60597pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{fig:Team}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.174 \end{frame}
-                 
-Overfull \hbox (50.98267pt too wide) has occurred while \output is active
-[][]  
- []
+                  [23
 
-[23
-
-]
-Overfull \hbox (101.56534pt too wide) in paragraph at lines 180--180
-[][]  
- []
-
-File: images/team.png Graphic file (type png)
-<use images/team.png>
-Package pdftex.def Info: images/team.png  used on input line 180.
-(pdftex.def)             Requested size: 318.67209pt x 179.2509pt.
+ <./images/jabari.png>]
+<images/alpy.png, id=662, 755.82375pt x 411.5375pt>
+File: images/alpy.png Graphic file (type png)
+<use images/alpy.png>
+Package pdftex.def Info: images/alpy.png  used on input line 180.
+(pdftex.def)             Requested size: 318.67209pt x 173.51021pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{fig:Team}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.180 \end{frame}
-                 
-Overfull \hbox (101.56534pt too wide) has occurred while \output is active
-[][]  
- []
+                  [24
 
-[24
-
-]
-Overfull \hbox (152.14801pt too wide) in paragraph at lines 187--187
-[][]  
- []
-
+ <./images/alpy.png>]
+<images/team.png, id=699, 578.16pt x 325.215pt>
 File: images/team.png Graphic file (type png)
 <use images/team.png>
 Package pdftex.def Info: images/team.png  used on input line 187.
@@ -1550,19 +1552,14 @@ s been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.187 \end{frame}
-                 
-Overfull \hbox (152.14801pt too wide) has occurred while \output is active
-[][]  
- []
+                  [25
 
-[25
-
-]
+ <./images/team.png>]
 Overfull \hbox (91.05072pt too wide) in paragraph at lines 191--191
 [][]  
  []
 
-<gfx/thanks.pdf, id=646, 150.5625pt x 150.5625pt>
+<gfx/thanks.pdf, id=720, 150.5625pt x 150.5625pt>
 File: gfx/thanks.pdf Graphic file (type pdf)
 <use gfx/thanks.pdf>
 Package pdftex.def Info: gfx/thanks.pdf  used on input line 191.
@@ -1600,33 +1597,23 @@ L3 programming layer <2023-11-09>
 
 LaTeX Warning: There were multiply-defined labels.
 
-
-Package rerunfilecheck Warning: File `talk.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `talk.out':
-(rerunfilecheck)             Before: C8A180D41A4D8A8C260B0883CBC5075B;290
-(rerunfilecheck)             After:  6C63D7C99B55D3EE358FEA2A2D71AF56;194.
+Package rerunfilecheck Info: File `talk.out' has not changed.
+(rerunfilecheck)             Checksum: 6C63D7C99B55D3EE358FEA2A2D71AF56;194.
  ) 
 Here is how much of TeX's memory you used:
- 27082 strings out of 474267
- 536157 string characters out of 5751465
- 1943558 words of memory out of 5000000
- 48658 multiletter control sequences out of 15000+600000
+ 27118 strings out of 474267
+ 536973 string characters out of 5751465
+ 1944558 words of memory out of 5000000
+ 48695 multiletter control sequences out of 15000+600000
  617316 words of font info for 107 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,19n,123p,1433b,862s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{Outline0.3} has been referenced but does not exist,
- replaced by a fixed one
-
-<c:/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/202
-3/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on talk.pdf (26 pages, 1193964 bytes).
+<c:/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2
+023/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on talk.pdf (26 pages, 9422501 bytes).
 PDF statistics:
- 700 PDF objects out of 1000 (max. 8388607)
- 443 compressed objects within 5 object streams
- 60 named destinations out of 1000 (max. 500000)
- 140 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 773 PDF objects out of 1000 (max. 8388607)
+ 482 compressed objects within 5 object streams
+ 59 named destinations out of 1000 (max. 500000)
+ 157 words of extra memory for PDF output out of 10000 (max. 10000000)
 
