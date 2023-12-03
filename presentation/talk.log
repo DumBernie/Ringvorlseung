@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.2)  3 DEC 2023 13:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.2)  3 DEC 2023 15:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -929,7 +929,29 @@ File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 10.40245pt on input line 56.
  (./talk.aux
-(./slides.aux))
+(./slides.aux
+
+LaTeX Warning: Label `fig:player-statistics' multiply defined.
+
+
+LaTeX Warning: Label `fig:player-statistics' multiply defined.
+
+
+LaTeX Warning: Label `fig:Jalen-Green' multiply defined.
+
+
+LaTeX Warning: Label `fig:player-statistics' multiply defined.
+
+
+LaTeX Warning: Label `fig:Jalen-Green' multiply defined.
+
+
+LaTeX Warning: Label `fig:player-statistics' multiply defined.
+
+
+LaTeX Warning: Label `fig:Jalen-Green' multiply defined.
+
+))
 \openout1 = `talk.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
@@ -1093,14 +1115,14 @@ Overfull \hbox (91.05072pt too wide) in paragraph at lines 1--1
 [][]  
  []
 
-<gfx/logos/logo_university_stuttgart_white.pdf, id=40, 183.68625pt x 41.15375pt
+<gfx/logos/logo_university_stuttgart_white.pdf, id=42, 183.68625pt x 41.15375pt
 >
 File: gfx/logos/logo_university_stuttgart_white.pdf Graphic file (type pdf)
 <use gfx/logos/logo_university_stuttgart_white.pdf>
 Package pdftex.def Info: gfx/logos/logo_university_stuttgart_white.pdf  used on
  input line 1.
 (pdftex.def)             Requested size: 182.09746pt x 40.80072pt.
-<gfx/logos/logo_ipvs.png, id=41, 566.115pt x 566.115pt>
+<gfx/logos/logo_ipvs.png, id=43, 566.115pt x 566.115pt>
 File: gfx/logos/logo_ipvs.png Graphic file (type png)
 <use gfx/logos/logo_ipvs.png>
 Package pdftex.def Info: gfx/logos/logo_ipvs.png  used on input line 1.
@@ -1146,12 +1168,12 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 1.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 5.69998pt on input line 1.
-<gfx/logos/logo_sgs.png, id=42, 494.84875pt x 607.26875pt>
+<gfx/logos/logo_sgs.png, id=44, 494.84875pt x 607.26875pt>
 File: gfx/logos/logo_sgs.png Graphic file (type png)
 <use gfx/logos/logo_sgs.png>
 Package pdftex.def Info: gfx/logos/logo_sgs.png  used on input line 1.
 (pdftex.def)             Requested size: 28.45274pt x 34.9149pt.
-<gfx/logos/logo_simtech.png, id=44, 332.24126pt x 94.3525pt>
+<gfx/logos/logo_simtech.png, id=46, 332.24126pt x 94.3525pt>
 File: gfx/logos/logo_simtech.png Graphic file (type png)
 <use gfx/logos/logo_simtech.png>
 Package pdftex.def Info: gfx/logos/logo_simtech.png  used on input line 1.
@@ -1187,144 +1209,297 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 
 ]
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 33.
- [4
+(Font)              scaled to size 9.49997pt on input line 41.
+LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
+(Font)              scaled to size 9.49997pt on input line 41.
+LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
+(Font)              scaled to size 6.64998pt on input line 41.
+LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
+(Font)              scaled to size 4.74998pt on input line 41.
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 9.49997pt on input line 41.
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 6.64998pt on input line 41.
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 4.74998pt on input line 41.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 6.64998pt on input line 41.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 4.74998pt on input line 41.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 41.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 9.49997pt on input line 41.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 41.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 6.64998pt on input line 41.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 41.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 4.74998pt on input line 41.
 
-]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 5
-0.
- (c:/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-) [5
-
-{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
-Overfull \hbox (91.05072pt too wide) in paragraph at lines 54--54
-[][]  
+Overfull \hbox (222.46625pt too wide) in paragraph at lines 41--41
+ [] 
  []
 
+<images/vanvlfr01.jpg, id=124, 120.45pt x 180.675pt>
+File: images/vanvlfr01.jpg Graphic file (type jpg)
+<use images/vanvlfr01.jpg>
+Package pdftex.def Info: images/vanvlfr01.jpg  used on input line 41.
+(pdftex.def)             Requested size: 59.75139pt x 89.62599pt.
+[4
+
+ <./images/vanvlfr01.jpg>]
+Overfull \hbox (222.46625pt too wide) in paragraph at lines 41--41
+ [] 
+ []
+
+File: images/vanvlfr01.jpg Graphic file (type jpg)
+<use images/vanvlfr01.jpg>
+Package pdftex.def Info: images/vanvlfr01.jpg  used on input line 41.
+(pdftex.def)             Requested size: 59.75139pt x 89.62599pt.
+[5
+
+]
+Overfull \hbox (222.46625pt too wide) in paragraph at lines 41--41
+ [] 
+ []
+
+File: images/vanvlfr01.jpg Graphic file (type jpg)
+<use images/vanvlfr01.jpg>
+Package pdftex.def Info: images/vanvlfr01.jpg  used on input line 41.
+(pdftex.def)             Requested size: 59.75139pt x 89.62599pt.
 [6
 
 ]
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-brarydecorations.text.code.tex
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-brarydecorations.code.tex
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.t
-ex
-\pgfdecoratedcompleteddistance=\dimen329
-\pgfdecoratedremainingdistance=\dimen330
-\pgfdecoratedinputsegmentcompleteddistance=\dimen331
-\pgfdecoratedinputsegmentremainingdistance=\dimen332
-\pgf@decorate@distancetomove=\dimen333
-\pgf@decorate@repeatstate=\count359
-\pgfdecorationsegmentamplitude=\dimen334
-\pgfdecorationsegmentlength=\dimen335
-)
-\tikz@lib@dec@box=\box86
-)
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
-orations.text.code.tex
-\pgf@lib@dec@text@box=\box87
-)
-\tikz@lib@dec@te@box=\box88
-)
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10.95> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 100.
-
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <8> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 100.
-
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <6> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 100.
-
-LaTeX Font Info:    Font shape `OT1/phv/bx/sl' in size <10.95> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 100.
-LaTeX Font Info:    Font shape `OT1/phv/b/sl' will be
-(Font)              scaled to size 10.40245pt on input line 100.
-LaTeX Font Info:    Font shape `OT1/phv/bx/sl' in size <8> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 100.
-LaTeX Font Info:    Font shape `OT1/phv/b/sl' will be
-(Font)              scaled to size 7.59998pt on input line 100.
-LaTeX Font Info:    Font shape `OT1/phv/bx/sl' in size <6> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 100.
-LaTeX Font Info:    Font shape `OT1/phv/b/sl' will be
-(Font)              scaled to size 5.69998pt on input line 100.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 100.
-LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 10.40245pt on input line 100.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 100.
-LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 7.59998pt on input line 100.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <6> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 100.
-LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 5.69998pt on input line 100.
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 100.
-LaTeX Font Info:    Font shape `T1/phv/b/sl' will be
-(Font)              scaled to size 10.40245pt on input line 100.
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <8> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 100.
-LaTeX Font Info:    Font shape `T1/phv/b/sl' will be
-(Font)              scaled to size 7.59998pt on input line 100.
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <6> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 100.
-LaTeX Font Info:    Font shape `T1/phv/b/sl' will be
-(Font)              scaled to size 5.69998pt on input line 100.
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 100.
-LaTeX Font Info:    Font shape `T1/phv/b/sl' will be
-(Font)              scaled to size 13.67995pt on input line 100.
- [7
-
-] [8
-
-] [9
-
-] [10
-
-] [11
-
-] [12
-
-] [13
-
-]
-Overfull \hbox (91.05072pt too wide) in paragraph at lines 111--111
-[][]  
+pdfTeX warning (ext4): destination with the same identifier (name{fig:player-st
+atistics}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.67 \end{frame}
+                
+Overfull \hbox (217.18433pt too wide) in paragraph at lines 67--67
+ [] 
  []
 
+<images/greenja05.jpg, id=193, 120.45pt x 180.675pt>
+File: images/greenja05.jpg Graphic file (type jpg)
+<use images/greenja05.jpg>
+Package pdftex.def Info: images/greenja05.jpg  used on input line 67.
+(pdftex.def)             Requested size: 59.75139pt x 89.62599pt.
+[7
+
+ <./images/greenja05.jpg>]
+Overfull \hbox (217.18433pt too wide) in paragraph at lines 67--67
+ [] 
+ []
+
+File: images/greenja05.jpg Graphic file (type jpg)
+<use images/greenja05.jpg>
+Package pdftex.def Info: images/greenja05.jpg  used on input line 67.
+(pdftex.def)             Requested size: 59.75139pt x 89.62599pt.
+[8
+
+]
+Overfull \hbox (217.18433pt too wide) in paragraph at lines 67--67
+ [] 
+ []
+
+File: images/greenja05.jpg Graphic file (type jpg)
+<use images/greenja05.jpg>
+Package pdftex.def Info: images/greenja05.jpg  used on input line 67.
+(pdftex.def)             Requested size: 59.75139pt x 89.62599pt.
+[9
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{fig:player-st
+atistics}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.93 \end{frame}
+                
+Overfull \hbox (217.18433pt too wide) in paragraph at lines 93--93
+ [] 
+ []
+
+<images/brookdi01.jpg, id=262, 120.45pt x 180.675pt>
+File: images/brookdi01.jpg Graphic file (type jpg)
+<use images/brookdi01.jpg>
+Package pdftex.def Info: images/brookdi01.jpg  used on input line 93.
+(pdftex.def)             Requested size: 59.75139pt x 89.62599pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:Jalen-Gre
+en}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.93 \end{frame}
+                 [10
+
+ <./images/brookdi01.jpg>]
+Overfull \hbox (217.18433pt too wide) in paragraph at lines 93--93
+ [] 
+ []
+
+File: images/brookdi01.jpg Graphic file (type jpg)
+<use images/brookdi01.jpg>
+Package pdftex.def Info: images/brookdi01.jpg  used on input line 93.
+(pdftex.def)             Requested size: 59.75139pt x 89.62599pt.
+[11
+
+]
+Overfull \hbox (217.18433pt too wide) in paragraph at lines 93--93
+ [] 
+ []
+
+File: images/brookdi01.jpg Graphic file (type jpg)
+<use images/brookdi01.jpg>
+Package pdftex.def Info: images/brookdi01.jpg  used on input line 93.
+(pdftex.def)             Requested size: 59.75139pt x 89.62599pt.
+[12
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{fig:player-st
+atistics}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.119 \end{frame}
+                 
+Overfull \hbox (211.9024pt too wide) in paragraph at lines 119--119
+ [] 
+ []
+
+<images/smithja05.jpg, id=329, 120.45pt x 180.675pt>
+File: images/smithja05.jpg Graphic file (type jpg)
+<use images/smithja05.jpg>
+Package pdftex.def Info: images/smithja05.jpg  used on input line 119.
+(pdftex.def)             Requested size: 59.75139pt x 89.62599pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:Jalen-Gre
+en}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.119 \end{frame}
+                  [13
+
+ <./images/smithja05.jpg>]
+Overfull \hbox (211.9024pt too wide) in paragraph at lines 119--119
+ [] 
+ []
+
+File: images/smithja05.jpg Graphic file (type jpg)
+<use images/smithja05.jpg>
+Package pdftex.def Info: images/smithja05.jpg  used on input line 119.
+(pdftex.def)             Requested size: 59.75139pt x 89.62599pt.
 [14
 
-] [15
+]
+Overfull \hbox (211.9024pt too wide) in paragraph at lines 119--119
+ [] 
+ []
 
-] [16
+File: images/smithja05.jpg Graphic file (type jpg)
+<use images/smithja05.jpg>
+Package pdftex.def Info: images/smithja05.jpg  used on input line 119.
+(pdftex.def)             Requested size: 59.75139pt x 89.62599pt.
+[15
 
 ]
-Overfull \hbox (91.05072pt too wide) in paragraph at lines 138--138
+pdfTeX warning (ext4): destination with the same identifier (name{fig:player-st
+atistics}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.145 \end{frame}
+                 
+Overfull \hbox (217.18433pt too wide) in paragraph at lines 145--145
+ [] 
+ []
+
+<images/sengual01.jpg, id=398, 120.45pt x 180.675pt>
+File: images/sengual01.jpg Graphic file (type jpg)
+<use images/sengual01.jpg>
+Package pdftex.def Info: images/sengual01.jpg  used on input line 145.
+(pdftex.def)             Requested size: 59.75139pt x 89.62599pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:Jalen-Gre
+en}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.145 \end{frame}
+                  [16
+
+ <./images/sengual01.jpg>]
+Overfull \hbox (217.18433pt too wide) in paragraph at lines 145--145
+ [] 
+ []
+
+File: images/sengual01.jpg Graphic file (type jpg)
+<use images/sengual01.jpg>
+Package pdftex.def Info: images/sengual01.jpg  used on input line 145.
+(pdftex.def)             Requested size: 59.75139pt x 89.62599pt.
+[17
+
+]
+Overfull \hbox (217.18433pt too wide) in paragraph at lines 145--145
+ [] 
+ []
+
+File: images/sengual01.jpg Graphic file (type jpg)
+<use images/sengual01.jpg>
+Package pdftex.def Info: images/sengual01.jpg  used on input line 145.
+(pdftex.def)             Requested size: 59.75139pt x 89.62599pt.
+[18
+
+]
+Overfull \hbox (91.05072pt too wide) in paragraph at lines 149--149
 [][]  
  []
 
-<gfx/thanks.pdf, id=359, 150.5625pt x 150.5625pt>
+[19
+
+] [20
+
+] [21
+
+]
+Overfull \hbox (91.05072pt too wide) in paragraph at lines 161--161
+[][]  
+ []
+
+[22
+
+]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
+80.
+ (c:/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+) [23
+
+{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] [24
+
+]
+Overfull \hbox (91.05072pt too wide) in paragraph at lines 188--188
+[][]  
+ []
+
+<gfx/thanks.pdf, id=574, 150.5625pt x 150.5625pt>
 File: gfx/thanks.pdf Graphic file (type pdf)
 <use gfx/thanks.pdf>
-Package pdftex.def Info: gfx/thanks.pdf  used on input line 138.
+Package pdftex.def Info: gfx/thanks.pdf  used on input line 188.
 (pdftex.def)             Requested size: 150.56212pt x 150.56212pt.
 File: gfx/logos/logo_ipvs.png Graphic file (type png)
 <use gfx/logos/logo_ipvs.png>
-Package pdftex.def Info: gfx/logos/logo_ipvs.png  used on input line 138.
+Package pdftex.def Info: gfx/logos/logo_ipvs.png  used on input line 188.
 (pdftex.def)             Requested size: 39.83385pt x 39.83076pt.
 File: gfx/logos/logo_sgs.png Graphic file (type png)
 <use gfx/logos/logo_sgs.png>
-Package pdftex.def Info: gfx/logos/logo_sgs.png  used on input line 138.
+Package pdftex.def Info: gfx/logos/logo_sgs.png  used on input line 188.
 (pdftex.def)             Requested size: 39.83385pt x 48.879pt.
 File: gfx/logos/logo_simtech.png Graphic file (type png)
 <use gfx/logos/logo_simtech.png>
-Package pdftex.def Info: gfx/logos/logo_simtech.png  used on input line 138.
+Package pdftex.def Info: gfx/logos/logo_simtech.png  used on input line 188.
 (pdftex.def)             Requested size: 96.73936pt x 27.47237pt.
-[17
+[25
 
  <./gfx/thanks.pdf>])
 \tf@nav=\write6
@@ -1341,27 +1516,28 @@ Package pdftex.def Info: gfx/logos/logo_simtech.png  used on input line 138.
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `talk.out' has not changed.
-(rerunfilecheck)             Checksum: 82B696728F48318CE7C9FDDB0BDA8E02;273.
+(rerunfilecheck)             Checksum: C8A180D41A4D8A8C260B0883CBC5075B;290.
  ) 
 Here is how much of TeX's memory you used:
- 27949 strings out of 474267
- 564681 string characters out of 5751465
- 1944558 words of memory out of 5000000
- 49516 multiletter control sequences out of 15000+600000
- 619935 words of font info for 109 fonts, out of 8000000 for 9000
+ 27126 strings out of 474267
+ 537596 string characters out of 5751465
+ 1943558 words of memory out of 5000000
+ 48699 multiletter control sequences out of 15000+600000
+ 618784 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,19n,123p,1433b,1179s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/tex
-live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023
-/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb><c:/texlive/2023/texmf-dis
-t/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/u
-rw/helvetic/uhvbo8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uh
-vr8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on talk.pdf (17 pages, 302111 bytes).
+ 128i,19n,123p,1433b,862s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb><c:/texl
+ive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2023/texmf-
+dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on talk.pdf (25 pages, 345017 bytes).
 PDF statistics:
- 430 PDF objects out of 1000 (max. 8388607)
- 271 compressed objects within 3 object streams
- 39 named destinations out of 1000 (max. 500000)
- 110 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 634 PDF objects out of 1000 (max. 8388607)
+ 418 compressed objects within 5 object streams
+ 57 named destinations out of 1000 (max. 500000)
+ 135 words of extra memory for PDF output out of 10000 (max. 10000000)
 
